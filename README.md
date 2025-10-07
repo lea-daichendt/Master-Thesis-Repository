@@ -1,4 +1,4 @@
-# Wetland Extent Extraction Scripts
+# Water Extent Extraction Scripts
 
 This repository contains Python and ArcGIS Pro workflows used to extract and aggregate wetland extent data from multiple sources — **GSW**, **GWP**, **GIEMS2**, **WAD2M**, and **WaterGAP** — aligned to the **WaterGAP model grid cells**.  
 All procedures were developed for the Master’s thesis:
